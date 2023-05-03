@@ -32,7 +32,7 @@ For the complete list of requirements see `requirements.txt`.
 
 ### Prepare Datasets:
 
-For your convenience, we have provided the python scripts for downloading and organizing the `Oxford Flowers 102` and `Oxford-IIIT Pet` datasets. The python scripts can be found [here](https://github.com/hsouri/BayesianTransferLearning/tree/main/Prapare%20Data).
+For your convenience, we have provided the python scripts for downloading and organizing the `Oxford Flowers 102` and `Oxford-IIIT Pet` datasets. The python scripts can be found [here](https://github.com/hsouri/BayesianTransferLearning/tree/main/prepare_data).
 
 
 
